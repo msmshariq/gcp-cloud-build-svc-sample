@@ -17,7 +17,7 @@ steps:
       - '--image'
       - 'us-east1-docker.pkg.dev/$PROJECT_ID/cloud-build-samples/hellospring'
       - '--region'
-      - 'us-east'
+      - 'us-east1'
       - '--platform'
       - 'managed'
       - '--allow-unauthenticated'
